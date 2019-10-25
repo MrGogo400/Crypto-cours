@@ -1,0 +1,27 @@
+# Exercice 1 - Chiffrement par décalage
+
+njnlsebzargjbex
+
+# Exercice 2 - Décryptage (chiffrement par décalage)
+
+Kerckhoffs (principe)
+
+Décalage de 21
+
+# Exercice 3 - Déryptage (chiffrement par substitution)
+
+
+Do not worry about your difficulties in mathematics i can assure you mine are still greater
+	You do not really understand something unless you can explain it to your grandmother
+	Education is what remains after one has forgotten what one has learned in school
+	Insanity is doing the same thing over and over again and expecting different results
+	What a sad era when it is easier to smash an atom than a prejudice
+	The secret of creativity is knowing how to hide your sources
+	Try not to become a man of success but rather to become a man of value
+	Common sense is the collection of prejudices acquired by age eighteen
+
+L'alphabet est : anzbevrctxywumiqospdlfkgjh
+
+Auteur : Albert Einstein
+
+# Exercice 4 - Décryptage (code de Vigenère)
